@@ -1,16 +1,41 @@
-## Hi there 👋
+Lucho | Product • AI • Data
 
-<!--
-**Lucho-IA/Lucho-IA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Product Owner / Product Management | IA aplicada a produtos | Dados & Automação
 
-Here are some ideas to get you started:
+Profissional com experiência em negócios, produtos financeiros, CRM e transformação digital, atualmente aprofundando a atuação em Product Management com implementação técnica.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Foco atual
+
+- Inteligência Artificial aplicada a produtos
+- Agentes de IA e automação
+- APIs e integrações
+- Python
+- SQL e análise de dados
+- Power BI
+- Arquitetura e documentação de produtos
+
+🧩 Projetos
+
+🤖 AI & Automação
+
+Projetos utilizando IA, agentes, APIs e automações para resolver problemas de negócio.
+
+📊 Data & BI
+
+Dashboards, indicadores, modelagem de dados e análise de performance.
+
+🧠 Product Management
+
+Discovery, definição de problemas, requisitos, métricas, jornadas, processos e desenho de soluções.
+
+💻 Desenvolvimento
+
+Projetos práticos em Python, APIs e integrações, como parte da minha evolução técnica.
+
+🎯 Objetivo
+
+Construir produtos digitais conectando negócio, tecnologia, dados e IA, atuando como ponte entre estratégia e execução.
+
+---
+
+📌 Em evolução contínua: Product Management + IA + tecnologia.
